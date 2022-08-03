@@ -1,6 +1,3 @@
-from ctypes import WinDLL, alignment
-from logging import PlaceHolder, raiseExceptions
-from optparse import Values
 import re
 import chardet
 import numpy as np # math package
