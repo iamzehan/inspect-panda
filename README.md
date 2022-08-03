@@ -21,10 +21,11 @@ The tools it offers are:
     |--- Detect Abnormality in Dates
     
 - Feature Selection.
-   |--- Mutual Information Gathering
-   |--- Correlations
-   |--- Clustering
-   |--- $Chi^2$
+
+   |--- Mutual Information Gathering\\
+   |--- Correlations\\
+   |--- Clustering\\
+   |--- $Chi^2$\\
    |--- Feature Importance
    |--- Principal Component Analysis (PCA)
 
