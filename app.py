@@ -16,7 +16,9 @@ from sklearn.feature_selection import SelectKBest
 from sklearn.ensemble import ExtraTreesClassifier
 from sklearn.feature_selection import mutual_info_regression
 from sklearn.decomposition import PCA
-
+st.set_page_config(
+     page_title="Inpect Panda",
+     page_icon="🐼")
 st.header("Welcome to Inspect Panda 🐼")
 
 def make_mi_scores(X, y, discrete_features):
