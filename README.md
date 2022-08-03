@@ -3,32 +3,31 @@ ___
 
 'Inspect Panda' is a tool to perform some basic exploratory data analysis on the go. It is a helper tool that saves you a ton of time to get an idea about your datasets with a few clicks.
 The tools it offers are:
-- Missing Values Exploration and Handling.
-    |--- Count Missing Values
-    |--- Drop NaN
-          |--- Drop Columns with NaNs
-          |--- Drop Rows with NaNs
-    |--- Fill NaNs
-          |--- ffill
-          |--- bfill
-          |--- fillna
-- Scaling and Normalization
-    |--- Plot Scaled Data
-    |--- Plot Normalized Data
+- Missing Values Exploration and Handling.<br>
+    - Count Missing Values<br>
+    - Drop NaN<br>
+          - Drop Columns with NaNs<br>
+          - Drop Rows with NaNs<br>
+    - Fill NaNs<br>
+          - ffill<br>
+          - bfill<br>
+          - fillna<br>
+- Scaling and Normalization<br>
+    - Plot Scaled Data<br>
+    - Plot Normalized Data<br>
     
-- Date Time anomaly Detection.
-    |--- Compare Dates
-    |--- Detect Abnormality in Dates
+- Date Time anomaly Detection.<br>
+    - Compare Dates<br>
+    - Detect Abnormality in Dates<br>
     
-- Feature Selection.
+- Feature Selection.<br>
+   - Mutual Information Gathering <br>
+   - Correlations <br>
+   - Clustering <br>
+   - $Chi^2$ <br>
+   - Feature Importance <br>
+   - Principal Component Analysis (PCA)<br>
 
-   |--- Mutual Information Gathering\\
-   |--- Correlations\\
-   |--- Clustering\\
-   |--- $Chi^2$\\
-   |--- Feature Importance
-   |--- Principal Component Analysis (PCA)
-
-- Detecting Inconsistent Data Entries.
-   |--- Unique Values
-   |--- FuzzyWuzzy
+- Detecting Inconsistent Data Entries.<br>
+   - Unique Values<br>
+   - FuzzyWuzzy<br>
