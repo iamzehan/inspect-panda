@@ -6,4 +6,4 @@ The tools it offers are:
 - Missing Values Exploration and Handling.
 - Date Time anomaly Detection.
 - Feature Selection.
-- 
+- Detecting Inconsistent Data Entries.
