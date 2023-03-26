@@ -16,6 +16,7 @@ from sklearn.feature_selection import SelectKBest
 from sklearn.ensemble import ExtraTreesClassifier
 from sklearn.feature_selection import mutual_info_regression
 from sklearn.decomposition import PCA
+st.set_option('server.maxUploadSize', 500)
 st.set_page_config(
      page_title="Inpect Panda",
      page_icon="🐼")
