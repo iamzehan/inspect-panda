@@ -30,4 +30,5 @@ The tools it offers are:
 
 - Detecting Inconsistent Data Entries.<br>
    - Unique Values<br>
-   - FuzzyWuzzy<br>
+   - FuzzyWuzzy<be>
+Here's the link to the app: [Link](https://inspect-panda.streamlit.app/)
