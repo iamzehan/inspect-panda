@@ -1,4 +1,5 @@
-# Inspect Panda
+# Tool for Exploratory Data Analysis meant for Data Science and Machine Learning Projects
+## Inspect Panda
 ___
 
 'Inspect Panda' is a tool to perform some basic and advanced exploratory data analysis on the go. It is a helper tool that saves you a ton of time to get an idea about your datasets with a few clicks.
@@ -31,4 +32,6 @@ The tools it offers are:
 - Detecting Inconsistent Data Entries.<br>
    - Unique Values<br>
    - FuzzyWuzzy<be>
+ - Powerful and Convenient visualizations
+
 Here's the link to the app: [Link](https://inspect-panda.streamlit.app/)
